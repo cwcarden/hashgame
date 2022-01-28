@@ -46,17 +46,6 @@ void Draw()
 
 }
 
-void Input()
-{
-
-}
-
-void Logic()
-{
-
-}
-
-
 int main()
 {
     Setup();
