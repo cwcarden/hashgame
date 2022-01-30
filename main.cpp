@@ -1,5 +1,4 @@
 #include <iostream>
-using namespace std;
 
 bool gameOver;
 const int width = 20;
@@ -22,6 +21,7 @@ void Setup()
 
 void Draw()
 {
+    using namespace std;
     system("clear");
     for (int i = 0; i < width; i++)
         cout << "#";
